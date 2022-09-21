@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luciaoitaben
 - 👀 I’m interested in ... Supply Chain optimization 
 - 🌱 I’m currently learning ... MAD <-> DAM
-- 💞️ I’m looking to collaborate on ... java or python based projects (just started learning though) 
+- 💞️ I’m looking to collaborate on ... java or python based projects (just started learning though!) 
 - 📫 How to reach me ... via email on luciaoitaben@gmail.com
 
 <!---
