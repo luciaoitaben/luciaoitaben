@@ -1,6 +1,6 @@
 Hi there, mi name is Lucy 👋
 
-Currently working as:               
+Currently working as:                            
 🧪Pharmaceutical Supply Chain planner at Zendal Group     
 
 My background:        
