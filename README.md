@@ -1,7 +1,7 @@
 Hi there, mi name is Lucy 👋
 
-Currently working as: 
-🧪Pharmaceutical Supply Chain planner at Zendal Group
+Currently working as:               
+🧪Pharmaceutical Supply Chain planner at Zendal Group     
 
 My background:        
 🌍 International trade (CFGS)                 
@@ -32,5 +32,5 @@ In case you didn´t notice yet, I´m always working towards new project ideas th
 
 
 
-You can find me:
+You can find me:              
 Sleeping 💤
