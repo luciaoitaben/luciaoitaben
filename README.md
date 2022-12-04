@@ -18,10 +18,10 @@ Friends&Cars
 Interest focus:                 
 R, Python, SQL 💻                     
 Research                    
-Statistical Modelling 
-Demand planning and forecasting tools 📈
-Data analysis to optimize the supply chain                  
-KPIs and OKR setup for continuous improvement             
+Statistical Modelling                       
+Demand planning and forecasting tools 📈                  
+Data analysis to optimize the supply chain                                
+KPIs and OKR setup for continuous improvement                    
 
 Ongoing/pending projects queue 🙃:              
 PMI - PMP Certification             
