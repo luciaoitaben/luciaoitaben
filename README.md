@@ -9,16 +9,17 @@ My background:
 📑 MsC in Supply Chain Management (UOC)           
 
 "Hobbies":            
-Creativity development tasks (i.e pottery)              
+Creativity development tasks (i.e pottery) 🎨             
 Tetris w/ production capacities lol               
 Project management (fr)                   
 Family time 🐶💕                  
 Friends&Cars                        
 
 Interest focus:                 
-R, Python, SQL                      
-Research                      
-Statistical Modelling                       
+R, Python, SQL 💻                     
+Research                    
+Statistical Modelling 
+Demand planning and forecasting tools 📈
 Data analysis to optimize the supply chain                  
 KPIs and OKR setup for continuous improvement             
 
