@@ -5,7 +5,7 @@ Currently working as:
 
 My background:        
 🌍 International trade (CFGS)                 
-🌟 Marketing and Market Research (UOC)            
+🌟 BS in Marketing and Market Research (UOC)            
 📑 MsC in Supply Chain Management (UOC)           
 
 "Hobbies":            
