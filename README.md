@@ -24,9 +24,9 @@ Data analysis to optimize the supply chain
 KPIs and OKR setup for continuous improvement                    
 
 Ongoing/pending projects queue 🙃:              
-PMI - PMP Certification             
-Master´s Thesis           
-DAM               
+PMI - PMP Certification ✅           
+Master´s Thesis ♾️         
+DAM 📛              
 
 In case you didn´t notice yet, I´m always working towards new project ideas that are developing in my mind 💡
 
